@@ -1,5 +1,3 @@
-setwd('C:/Users/oscar/Documents/R projects/Crypto')
-
 packs <- c('tidyverse','factoextra','GGally')
 
 for (p in packs) {
